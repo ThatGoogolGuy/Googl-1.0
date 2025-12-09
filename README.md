@@ -1,2 +1,3 @@
-# Googl-1.0
-First version of a chatbot I made, you can teach it stuff :)
+Googl 1.0 :)
+
+this version is based of the chatbot from @Indently, go check him out on youtube!
